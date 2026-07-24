@@ -33,6 +33,8 @@ Assignmnet - 2 Gemini Gems Personalised AI Assistants
 
 Assignment - 3 Mastering Gemini
 
+Assignemnt - 4 Stop using gemini like a searchbar
+
 Each assignment reflects the concepts learned during the Google Gems module.
 
 ---
