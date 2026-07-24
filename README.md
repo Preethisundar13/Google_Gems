@@ -1,7 +1,7 @@
 ```markdown
-# Google Gems – Hands-on Assignments
+Google Gems – Hands-on Assignments
 
-## 📌 Overview
+📌 Overview
 
 This repository contains the hands-on assignments completed as part of the **Google Gems** module in the **AI Agent Engineer Program** offered by **Tayana Academy, India**.
 
@@ -9,7 +9,7 @@ The primary objective of this repository is to demonstrate practical experience 
 
 ---
 
-## 🎯 Objectives
+🎯 Objectives
 
 - Learn how to create and customize Google Gems.
 
@@ -23,7 +23,7 @@ The primary objective of this repository is to demonstrate practical experience 
 
 ---
 
-## 📂 Repository Contents
+📂 Repository Contents
 
 This repository includes:
 
@@ -37,7 +37,7 @@ Each assignment reflects the concepts learned during the Google Gems module.
 
 ---
 
-## 🛠️ Skills Demonstrated
+🛠️ Skills Demonstrated
 
 - Google Gems
 
@@ -53,7 +53,7 @@ Each assignment reflects the concepts learned during the Google Gems module.
 
 ---
 
-## 🎓 Course Information
+🎓 Course Information
 
 **Course:** AI Agent Engineer Program
 
@@ -63,7 +63,7 @@ Each assignment reflects the concepts learned during the Google Gems module.
 
 ---
 
-## 🚀 Purpose
+🚀 Purpose
 
 This repository serves as:
 
@@ -77,21 +77,21 @@ This repository serves as:
 
 ---
 
-## 📌 Note
+📌 Note
 
 All files in this repository were created for educational purposes as part of the Google Gems hands-on module. The assignments are intended to demonstrate practical understanding and implementation of the concepts covered during the course.
 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
 
-**Preethi Sundar**
+Preethi Sundar
 
 AI Agent Engineer Trainee
 
 ---
 
-## ⭐ Acknowledgement
+⭐ Acknowledgement
 
 Thanks to **Tayana Academy, India** for providing the training, practical assignments, and guidance that supported the completion of this repository.
 ```
